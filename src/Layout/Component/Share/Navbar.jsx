@@ -54,7 +54,7 @@ const Navbar = () => {
           {/* Logo */}
           <div className="flex">
             <h1 className="font-bold text-[var(--primaryColor)] text-2xl ">
-              Fitness
+              Dental Care
             </h1>
           </div>
 
