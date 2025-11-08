@@ -1,12 +1,40 @@
-# React + Vite
+# 🦷 Dental Care Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Dental Care Clinic Landing Page** built to showcase dental services, treatments, and appointment booking features.  
+This project focuses on a clean UI, smooth navigation, and professional presentation for healthcare businesses.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo  
+🔗 [View Live Website](https://your-custom-domain.netlify.app) 
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧩 Features
+
+- 🏠 **Home Section** – Hero banner with a professional dentist illustration and call-to-action button  
+- 🩺 **About Us** – Brief introduction with images of dental professionals  
+- ⚙️ **Features Section** – Highlights of advanced tools and treatment options  
+- 😁 **Before & After Gallery** – Visual results of dental treatments  
+- 📅 **Book Appointment** – Easy appointment booking section  
+- 💬 **Testimonials** – Real patient feedback cards  
+- 🎥 **Work Samples** – Embedded work videos  
+- 👨‍⚕️ **Professional Staff** – Dentist profile cards with titles  
+- 💲 **Pricing Plans** – Tiered dental service packages  
+- 📞 **Contact Form** – Quick contact section for inquiries  
+- 📩 **Newsletter** – Email subscription form in the footer  
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**  
+- **CSS3 / Bootstrap 5**  
+- **JavaScript (ES6)**  
+- **Font Awesome Icons**  
+- **Google Fonts**  
+
+---
+
+## 📁 Folder Structure
+
